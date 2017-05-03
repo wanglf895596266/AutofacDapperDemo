@@ -1,0 +1,1 @@
+﻿该类库主要的作用是基于Dapper,定义了统一操作数据库的方法，所有的Service都通过调用IDemoRepository来调用数据

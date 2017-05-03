@@ -1,0 +1,2 @@
+﻿1、LogService直接在类中连接数据库，并对Log表进行增删改。
+2、UserService直接引用IDemoRepository接口（这个接口定义了统一的操作数据库表的方式），通过IDemoRepository来操作User表。
